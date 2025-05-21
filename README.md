@@ -78,4 +78,4 @@ Economic performance in energy efficiency and optimization refers to the financi
 Environmental performance in energy efficiency and optimization refers to the positive impact on the environment achieved by reducing energy consumption, using cleaner technologies, and minimizing emissions and waste. It assesses how energy-saving actions contribute to environmental sustainability and compliance with environmental regulations. 
 
 04.Environmental performance:
-Environmental performance in energy efficiency and optimization refers to the positive impact on the environment achieved by reducing energy consumption, using cleaner technologies, and minimizing emissions and waste. It assesses how energy-saving actions contribute to environmental sustainability and compliance with environmental regulations.**
+Environmental performance in energy efficiency and optimization refers to the positive impact on the environment achieved by reducing energy consumption, using cleaner technologies, and minimizing emissions and waste. It assesses how energy-saving actions contribute to environmental sustainability and compliance with environmental regulations.
